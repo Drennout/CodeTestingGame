@@ -1,0 +1,12 @@
+Rule
+
+Your task is to find an error in the code.
+Whoever finds the first gets a score.
+
+In order to answer, enter your personal number set earlier.
+After you have entered the number, enter the correct answer
+by entering the line number first and then entering the correct line.
+For example, the error looks like this :
+4. if(a = b)
+Then the correct answer will look like this:
+4. if(a == b)

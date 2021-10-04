@@ -1,0 +1,9 @@
+<content>
+1. public static void main(String[] args) {
+2.        if (a > = b)
+3.    }
+</content>
+
+<answer>
+2. if (a >= b)
+</answer>
